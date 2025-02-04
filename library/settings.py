@@ -31,7 +31,8 @@ DEBUG = False
 
 # ALLOWED_HOSTS = []
 # ALLOWED_HOSTS = ['127.0.0.1', 'library.onrender.com']
-ALLOWED_HOSTS = ['library.onrender.com', '127.0.0.1', 'localhost']
+# ALLOWED_HOSTS = ['library.onrender.com', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ["127.0.0.1", "localhost", "library-6jgb.onrender.com"]
 
 
 
